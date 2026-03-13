@@ -1,4 +1,4 @@
-NOTE : These are settings i used to ensue the model runs well under the 50k limit and still provide top notch results :
+NOTE : These are settings i used to ensure the model runs well under the 50k limit and still provide top notch results :
 # HFSS Simulation Setup Guide
 
 ### 1. Mesh Assignment
