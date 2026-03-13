@@ -1,3 +1,13 @@
 NOTE : These are settings i used to ensue the model runs well under the 50k limit and still provide top notch results :
+Assign this to the mesh in the model tree : 
+<img width="569" height="691" alt="Image" src="https://github.com/user-attachments/assets/ce20db55-9fda-4ab8-8f4c-f6d303d437ba" />
 
+Assign surface approximation to all the model elements such as substrate , port , ground etc , keep them on coarse
+<img width="468" height="439" alt="Image" src="https://github.com/user-attachments/assets/837d9dbd-43de-4732-88be-a9a39a38b4db" />
+
+The below are the settings you need to turn on for when you add the solution setup :
+<img width="722" height="790" alt="Image" src="https://github.com/user-attachments/assets/d448bba8-6d20-468b-91f4-1eefaef3f305" />
+<img width="728" height="665" alt="Image" src="https://github.com/user-attachments/assets/64409a6a-535f-4d2f-8585-676f8f7c6771" />
+<img width="719" height="793" alt="Image" src="https://github.com/user-attachments/assets/3e361c30-311e-4f28-823e-a4da5f5177e2" />
+<img width="654" height="560" alt="Image" src="https://github.com/user-attachments/assets/1a8bc945-9c9b-47ea-a349-cc48f794f45b" />
 
