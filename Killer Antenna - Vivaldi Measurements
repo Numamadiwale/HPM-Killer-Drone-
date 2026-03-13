@@ -60,7 +60,4 @@ Feedline dimensions are 1.5, 21.5 and 0.5 mm respectively in x,y and z
 
 
 
-
-
-
 IMPORTANT NOTE : Even with the calculations done , some of the parameters were modified in the final design to keep the mesh belo 50 k limit. the feedline was not tapered as first though and the above dimesions were ultimately considered instead.
